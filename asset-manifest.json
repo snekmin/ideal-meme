@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ideal-meme.snek.at/static/css/main.c8a28445.chunk.css",
+    "main.js": "/ideal-meme.snek.at/static/js/main.3061702c.chunk.js",
+    "main.js.map": "/ideal-meme.snek.at/static/js/main.3061702c.chunk.js.map",
+    "runtime-main.js": "/ideal-meme.snek.at/static/js/runtime-main.76f21c4c.js",
+    "runtime-main.js.map": "/ideal-meme.snek.at/static/js/runtime-main.76f21c4c.js.map",
+    "static/css/2.2dd063de.chunk.css": "/ideal-meme.snek.at/static/css/2.2dd063de.chunk.css",
+    "static/js/2.99532006.chunk.js": "/ideal-meme.snek.at/static/js/2.99532006.chunk.js",
+    "static/js/2.99532006.chunk.js.map": "/ideal-meme.snek.at/static/js/2.99532006.chunk.js.map",
+    "index.html": "/ideal-meme.snek.at/index.html",
+    "static/css/2.2dd063de.chunk.css.map": "/ideal-meme.snek.at/static/css/2.2dd063de.chunk.css.map",
+    "static/css/main.c8a28445.chunk.css.map": "/ideal-meme.snek.at/static/css/main.c8a28445.chunk.css.map",
+    "static/js/2.99532006.chunk.js.LICENSE.txt": "/ideal-meme.snek.at/static/js/2.99532006.chunk.js.LICENSE.txt",
+    "static/js/main.3061702c.chunk.js.LICENSE.txt": "/ideal-meme.snek.at/static/js/main.3061702c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f21c4c.js",
+    "static/css/2.2dd063de.chunk.css",
+    "static/js/2.99532006.chunk.js",
+    "static/css/main.c8a28445.chunk.css",
+    "static/js/main.3061702c.chunk.js"
+  ]
+}
